@@ -15,3 +15,4 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 
+![Screenshot](Screenshot 2020-09-29 at 7.16.54 PM.png)
