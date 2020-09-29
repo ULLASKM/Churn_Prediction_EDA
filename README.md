@@ -15,4 +15,4 @@ Customer account information – how long they’ve been a customer, contract, p
 Demographic info about customers – gender, age range, and if they have partners and dependents
 
 
-![Optional Text](Screenshot 2020-09-29 at 7.16.54 PM.png)
+![alt text](https://github.com/ULLASKM/Churn_Prediction_EDA/blob/master/Screenshot%202020-09-29%20at%207.16.54%20PM.png)
