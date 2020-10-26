@@ -5,6 +5,8 @@ Churn quantifies the number of customers who have left your brand by cancelling 
  
  #### Dataset credits : https://www.kaggle.com/blastchar/telco-customer-churn
  
+ ### Kaggle : https://www.kaggle.com/ullaskm/telco-churn-eda
+ 
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
 The data set includes information about:
